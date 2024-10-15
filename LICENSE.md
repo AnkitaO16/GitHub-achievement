@@ -1,2 +1,2 @@
-Copyright (C) 2024 Sam Hocevar <ankitaojha1611@gmail.com>
+Copyright (C) 2024 Ankita Ojha <ankitaojha1611@gmail.com>
 
