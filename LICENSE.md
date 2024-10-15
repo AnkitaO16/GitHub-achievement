@@ -1,4 +1,2 @@
-                   Version 2, December 2004
- 
-Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+Copyright (C) 2024 Sam Hocevar <ankitaojha1611@gmail.com>
 
