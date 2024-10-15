@@ -131,8 +131,3 @@ also available in Bronze, Silver, and Gold achievements.
 
 ## Contributors
 
-We would like to thank the contributors of this repository for their efforts in helping users understand how to earn GitHub Achievements. If you would like to contribute to this repository, please feel free to create a [pull request](https://github.com/sagelga/github-achievement-cheatsheet/pulls) or [create an issue](https://github.com/sagelga/github-achievement-cheatsheet/issues). Your work will be appreciated.
-
-<a href="https://github.com/sagelga/github-achievement-cheatsheet/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sagelga/github-achievement-cheatsheet" />
-</a>
